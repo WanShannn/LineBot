@@ -52,6 +52,14 @@
 * line-bot-servlet
 * line-bot-spring-boot
 
+## **Result**
+* ReplyMessage
+   > ![image](https://github.com/WanShannn/LineBot/blob/main/result/ReplyMessage-1.png)
+   > ![image](https://github.com/WanShannn/LineBot/blob/main/result/ReplyMessage-2.png)
+* Broadcast及PushMessage
+   > ![image](https://github.com/WanShannn/LineBot/blob/main/result/Broadcast%E5%8F%8APushMessage-1.png)
+   > ![image](https://github.com/WanShannn/LineBot/blob/main/result/Broadcast%E5%8F%8APushMessage-2.png)
+
 ## **References**
 * https://www.learncodewithmike.com/2020/06/python-line-bot.html
 * https://developers.line.biz/en/docs/messaging-api/
