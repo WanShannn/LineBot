@@ -1,4 +1,4 @@
-# LineBot-Java
+# LineBot-MessagingAPI-Java
 使用JAVA建立下列 LineBot Messaging API 功能：
 * Reply Messages
 * Broadcast Messages
